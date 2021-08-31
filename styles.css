@@ -32,3 +32,10 @@ footer a {
 #carousel .overlay .container, #carousel .overlay .row {
     height: 100%;
 }
+.btn-platzi {
+    background-color: #97c96e;
+    color: white;
+}
+.btn-platzi:hover {
+    background-color: #6f9452;
+}
